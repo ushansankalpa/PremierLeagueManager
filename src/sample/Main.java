@@ -24,8 +24,8 @@ public class Main extends Application {
 
 
         //load all data with running file
-        premierLeagueManager.loadAllOfData("C:\\z.My privet\\Extra\\javcw\\2nd year\\notpad\\FinalCode\\PremierLeageGUI\\CLUB_DATA.txt");
-        premierLeagueManager.loadAllMatch("C:\\z.My privet\\Extra\\javcw\\2nd year\\notpad\\FinalCode\\PremierLeageGUI\\MATCH_DATA.txt");
+        //premierLeagueManager.loadAllOfData("C:\\z.My privet\\Extra\\javcw\\2nd year\\notpad\\FinalCode\\PremierLeageGUI\\CLUB_DATA.txt");
+        //premierLeagueManager.loadAllMatch("C:\\z.My privet\\Extra\\javcw\\2nd year\\notpad\\FinalCode\\PremierLeageGUI\\MATCH_DATA.txt");
 
 
         //two string values
